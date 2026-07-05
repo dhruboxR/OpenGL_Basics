@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# Allow Git to traverse directories
+!*/
+
+# Track only C++ source files
+!*.cpp
+
+# Track the .gitignore file itself
+!.gitignore
