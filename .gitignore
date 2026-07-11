@@ -9,3 +9,10 @@
 
 # Track the .gitignore file itself
 !.gitignore
+
+# ==========================================
+# EXCLUSIONS: Ignore specific items manually
+# ==========================================
+
+# Explicitly ignore the folder named glPractice.cpp and everything inside it
+glPractice.cpp/
